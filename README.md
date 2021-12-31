@@ -35,5 +35,5 @@
     <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" height="26em">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+training+and+learning+JS;and+web+programming+in+general!+=D)](https://git.io/typing-svg)
-    
-    ![Snake animation](https://github.com/gabrielftanaka/gabrielftanaka/blob/output/github-contribution-grid-snake.svg)
+   
+  ![Snake animation](https://github.com/gabrielftanaka/gabrielftanaka/blob/output/github-contribution-grid-snake.svg)
