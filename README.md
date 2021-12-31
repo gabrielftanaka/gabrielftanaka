@@ -21,6 +21,8 @@
     <img height="25em" src="https://img.shields.io/badge/NVIDIA-920M-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     <img height="25em" src="https://img.shields.io/github/followers/gabrielftanaka.svg?style=social&label=Follow&maxAge=2592000"/>
   </div>
+
+</a>
  
   ##
 
@@ -29,3 +31,9 @@
   <a href="https://www.reddit.com/user/tanakabr" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/tanakara" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://pastebin.com/wncDXV4m" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" height="26em">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+training+and+learning+JS;and+web+programming+in+general!+=D)](https://git.io/typing-svg)
+    
+    ![Snake animation](https://github.com/gabrielftanaka/gabrielftanaka/blob/output/github-contribution-grid-snake.svg)
