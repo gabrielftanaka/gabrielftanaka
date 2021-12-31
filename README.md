@@ -18,6 +18,7 @@
    <img height="25em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img height="25em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img height="25em" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img height="25em" src="https://camo.githubusercontent.com/04b5e0e940eed511e8e86619eeb7cdb264f17292074c06c60127e1796436d57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d2532333131374143392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465"/>
     <img height="25em" src="https://img.shields.io/badge/NVIDIA-920M-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     <img height="25em" src="https://img.shields.io/github/followers/gabrielftanaka.svg?style=social&label=Follow&maxAge=2592000"/>
   </div>
