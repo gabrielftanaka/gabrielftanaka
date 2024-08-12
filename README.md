@@ -19,7 +19,8 @@
         > win11 (os main) + rx6600 + 128gb ram ddr4 + 8 vms w/ linux distros and windows servers.
       <br>
      <br>
-     ![](https://komarev.com/ghpvc/?username=gabrielftanaka)
+       <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" height="26em">
     </samp>
   </p>
 </p>
