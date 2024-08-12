@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://imgur.com/a/IuvHyrn" width="500" align="left">
+ <img src="https://imgur.com/a/IuvHyrn"align="left">
   <p float="left">
     <samp>
       🥸
