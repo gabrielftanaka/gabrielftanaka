@@ -7,8 +7,8 @@
       <br>
       about me:<br>
              - he/him, brazilian, pt-br + learning english;<br>
-             - computer engineering and cyber defense student<br>
-             - looking for an internship.<br>
+             - computer engineering and cyber defense student;<br>
+             - looking for an internship;<br>
              - cybersecurity enthusiast - red team, forensics and malware analysis.<br>
       <br>
       <br>
@@ -20,7 +20,7 @@
         > win11 (os main) + rx6600 + 128gb ram ddr4 + 8 vms w/ linux distros and windows servers.
       <br>
      <br>
-      ![visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielftanaka&left_color=green&right_color=white)
+      ![Visitor Count](https://profile-counter.glitch.me/gabrielftanaka/count.svg)
       <b>
     </samp>
   </p>
