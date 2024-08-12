@@ -20,7 +20,7 @@
         > win11 (os main) + rx6600 + 128gb ram ddr4 + 8 vms w/ linux distros and windows servers.
       <br>
      <br>
-      ![Visitor Count](https://profile-counter.glitch.me/gabrielftanaka/count.svg)
+      ![](https://komarev.com/ghpvc/?username=gabrielftanaka&color=white)
     </samp>
   </p>
 </p>
