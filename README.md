@@ -20,10 +20,10 @@
       <br>
      <br>
      <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="108">
-     <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
-     <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
-     <img src="https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white">
+     <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="108">
+     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" width="108">
+     <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" width="108">
+     <img src="https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" width="108">
        <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" height="26em">
     </samp>
