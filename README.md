@@ -24,6 +24,8 @@
      <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" width="108">
      <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" width="108">
      <img src="https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" width="108">
+     <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" width="108">
+     <img src="https://img.shields.io/badge/-Hackaday-%231A1A1A?style=for-the-badge&logo=hackaday&logoColor=white" width="108">
        <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" width="110" height="20em">
     </samp>
