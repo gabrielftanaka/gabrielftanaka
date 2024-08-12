@@ -2,9 +2,9 @@
   <img src="https://i.imgur.com/vOrRPfW.png" />
 </p>
 
-- 👋🏻 My name is Gabriel Tanaka and I am currently studying programming.
-- 👨‍💻 I’m currently learning JavaScript, CSS, HTML and plan to learn C++ in the future.
-- 💬 I'm looking to collaborate on projects to increase my evolution.
+- 👋🏻 My name is Gabriel Tanaka and I am currently studying and researching about Cybersecurity.
+- 👨‍💻 I am interested in the area of ​​malware analysis, forensics and pentest.
+- 💬 I use this space to record some studies and collaborate on projects.
 
   <h1 align="center">My GitHub Stats</h1>
 
@@ -35,6 +35,6 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" height="26em">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+training+and+learning+JS;and+web+programming+in+general!+=D)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+learning+and+researching+about+Cybersecurity+=D)](https://git.io/typing-svg)
    
   ![Snake animation](https://github.com/gabrielftanaka/gabrielftanaka/blob/output/github-contribution-grid-snake.svg)
