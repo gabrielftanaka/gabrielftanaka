@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" width="108">
      <img src="https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" width="108">
        <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" width="108" height="10em">
+    <img src="https://komarev.com/ghpvc/?username=gabrielftanaka" width="108" height="20em">
     </samp>
   </p>
 </p>
