@@ -11,7 +11,6 @@
              - looking for an internship;<br>
              - cybersecurity enthusiast - red team, forensics and malware analysis.<br>
       <br>
-      <br>
       resources and interests:<br>
           > malware analysis, red team, forensics, networks, linux, windows, wireshark, python, javascript.
       <br>
@@ -20,7 +19,7 @@
         > win11 (os main) + rx6600 + 128gb ram ddr4 + 8 vms w/ linux distros and windows servers.
       <br>
      <br>
-      ![](https://komarev.com/ghpvc/?username=gabrielftanaka&color=white)
     </samp>
+   ![](https://komarev.com/ghpvc/?username=gabrielftanaka&color=white)
   </p>
 </p>
