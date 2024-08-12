@@ -21,7 +21,6 @@
       <br>
      <br>
       ![Visitor Count](https://profile-counter.glitch.me/gabrielftanaka/count.svg)
-      <b>
     </samp>
   </p>
 </p>
