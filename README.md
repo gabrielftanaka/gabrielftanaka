@@ -10,7 +10,7 @@
       about me:<br>
              - he/him, brazilian, pt-br + learning english;<br>
              - computer engineering and cyber defense student;<br>
-             - it intern;<br>
+             - red team intern;<br>
              - cybersecurity enthusiast - red team, forensics and malware analysis.<br>
       <br>
       resources and interests:<br>
@@ -18,7 +18,7 @@
       <br>
       <br>
       cyber lab:<br>
-        > win11 (os main) + rx6600 + 128gb ram ddr4 + 8 vms w/ linux distros and windows servers.
+        > win11 (os main) + rx6600 + 128gb ram ddr4.
       <br>
      <br>
      <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="108">
