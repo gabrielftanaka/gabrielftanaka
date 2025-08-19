@@ -9,7 +9,7 @@
       <br>
       about me:<br>
              - he/him, brazilian, pt-br + learning english;<br>
-             - computer engineering and cyber defense student;<br>
+             - computer engineering and cybersecurity student;<br>
              - red team intern;<br>
              - cybersecurity enthusiast - red team, forensics and malware analysis.<br>
       <br>
