@@ -18,7 +18,7 @@
       <br>
       <br>
       cyber lab:<br>
-        > win11 (os main) + rx6600 + 128gb ram ddr4 and many vms.
+        > fedora w/ kde plasma (os main) + rx6600 + 128gb ram ddr4 and many vms.
       <br>
      <br>
      <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="108">
